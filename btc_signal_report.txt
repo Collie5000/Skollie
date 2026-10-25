@@ -1,8 +1,8 @@
-BTC-USD Signal Check (UTC): 2026-10-25 19:15:20
-Price: $80,489.12 USD
-MA20: $80,603.63
-MA50: $80,578.20
-RSI14: 27.46
-Signal: HOLD
+BTC-USD Signal Check (UTC): 2026-10-25 21:57:53
+Price: $80,273.37 USD
+MA20: $80,371.61
+MA50: $80,475.51
+RSI14: 43.92
+Signal: SELL
 Mode: SIGNAL ONLY - NO LIVE TRADES
 Warning: Indicators are not guaranteed predictions.
